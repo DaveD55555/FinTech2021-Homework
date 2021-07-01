@@ -41,4 +41,4 @@
   
   9.- Click 'Check TX Status'
 
-Please refer to the 'Screenshots' folder for command lines and for a visual guidance for each of the steps.
+**Please refer to the 'Screenshots' folder for command lines and for a visual guidance for each of the steps.**
