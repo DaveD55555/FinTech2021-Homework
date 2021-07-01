@@ -2,7 +2,16 @@
 
 ## Create Nodes
 
+0.- Navigate to the Blockchain-Tools folder
+
+    cd OneDrive
+    cd Desktop
+    cd Blockchain-Tools
+
 1.- Create empty directories for 2 nodes
+
+    mkdir node1
+    mkdir node2
 
 2.- Get the new accounts numbers from nodes to use them later as signers
 
@@ -47,6 +56,13 @@
 1.- Open MyCrypto
 
 2.- Click on "Add Custom Node" and fill out the fields based on your network information
+
+    Node name: homeworknet
+    Network: Custom
+    Network Name: homeworknet
+    Currency: ETH
+    Chain ID: 777
+    URL: http://127.0.0.1.8545
 
   3.- Go back to the main menu and import the keystore file from your folder directory into MyCrypto
   
