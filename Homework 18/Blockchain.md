@@ -6,8 +6,9 @@
 
 2.- Get the new accounts numbers from nodes to use them later as signers
 
- `* ./geth account new --datadir node1
- * ./geth account new --datadir node2`
+ `* ./geth account new --datadir node1`
+ 
+ `* ./geth account new --datadir node2`
 
 3.- Save the passwords and account addresses in a .txt file in you local machine 9important for later steps)
 
